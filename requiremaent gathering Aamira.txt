@@ -1,0 +1,21 @@
+                                              BUS RESERVATION
+INTRODUCTION
+Bus resevation is an important aspect when you are thinking about transportaaton and plan
+
+PURPOSE
+Reserving tickets for the seats is know availability and cost before in hand
+
+SCOPE AND OBJECTIVE
+To have multiple options plced before customer to reserve seat and book comfortable seat
+
+FUNCTIONAL REQUIREMENTS
+. To know availibilty and have more options
+. to know the timings
+.to learn about the security
+.to help avail reliable costs
+. to get best quality and avilibilty of seats
+
+USER INTERFACE
+--------
+----------------
+---------------------
